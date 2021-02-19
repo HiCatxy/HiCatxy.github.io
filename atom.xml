@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hicatxy.github.io</id>
     <title>HiCatxy</title>
-    <updated>2021-02-19T08:35:38.893Z</updated>
+    <updated>2021-02-19T08:51:11.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hicatxy.github.io"/>
     <link rel="self" href="https://hicatxy.github.io/atom.xml"/>
@@ -10,21 +10,4 @@
     <logo>https://hicatxy.github.io/images/avatar.png</logo>
     <icon>https://hicatxy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, HiCatxy</rights>
-    <entry>
-        <title type="html"><![CDATA[订阅-ALL]]></title>
-        <id>https://hicatxy.github.io/post/ding-yue-all/</id>
-        <link href="https://hicatxy.github.io/post/ding-yue-all/">
-        </link>
-        <updated>2021-02-19T07:28:30.000Z</updated>
-        <content type="html"><![CDATA[<p>ss,vmess,trojan,clash订阅</p>
-<p>Shadowsocks:<br>
-https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub<br>
-vmess:<br>
-https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray<br>
-trojan:<br>
-https://raw.githubusercontent.com/ssrsub/ssr/master/trojan<br>
-clash:<br>
-https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml</p>
-]]></content>
-    </entry>
 </feed>
